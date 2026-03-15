@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ハレハレヤ",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-03-15T16:45:32.901179Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハレハレヤ",
+      "artist": "Maigo Hanyuu",
+      "has_synced": true,
+      "path": "select/01_ハレハレヤ_Maigo_Hanyuu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハレハレヤ - Harehareya",
+      "artist": "HANYUU MAIGO",
+      "has_synced": true,
+      "path": "select/02_ハレハレヤ_-_Harehareya_HANYUU_MAIGO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハレハレヤ",
+      "artist": "UniteUp!",
+      "has_synced": false,
+      "path": "select/03_ハレハレヤ_UniteUp!.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハレハレヤ",
+      "artist": "KIKUNOYU, UniteUp!",
+      "has_synced": true,
+      "path": "select/04_ハレハレヤ_KIKUNOYU,_UniteUp!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハレハレヤ",
+      "artist": "Maigo Hanyū",
+      "has_synced": true,
+      "path": "select/05_ハレハレヤ_Maigo_Hanyū.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハレハレヤ",
+      "artist": "UniteUp! 및 KIKUNOYU",
+      "has_synced": true,
+      "path": "select/06_ハレハレヤ_UniteUp!_및_KIKUNOYU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハレハレヤ",
+      "artist": "UniteUp!, KIKUNOYU",
+      "has_synced": true,
+      "path": "select/07_ハレハレヤ_UniteUp!,_KIKUNOYU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハレハレヤ",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_ハレハレヤ_メガテラ・ゼロ.txt"
+    }
+  ]
+}
